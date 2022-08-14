@@ -10,6 +10,7 @@ int main()
     cout << "new changeh";
 cout<<" This is serious";
 cout << " Again no idea";
+cout<<" This is being edited on remote";
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
