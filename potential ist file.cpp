@@ -6,5 +6,6 @@ int main()
     cout<< " Is this a seconde change";
     cout << " I'm making a local change from VS ";
     cout << " This is a second change locally and I'm doing a favor on myself";
+    cout<<" this is a commit for the new branch"
     return 0;
 }
