@@ -1,0 +1,7 @@
+#include<iostream>
+using namespace std;
+int main()
+{
+cout<<" This is an online, bhasudi edit";
+return 0;
+}
